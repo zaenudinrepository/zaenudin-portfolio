@@ -1,0 +1,7 @@
+Portfolio
+- Data Science
+  - Machine Learning
+    - Regresi
+    - Klasifikasi
+  - Artificial Intelligence
+- Web Development
